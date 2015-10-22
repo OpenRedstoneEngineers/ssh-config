@@ -1,0 +1,33 @@
+# Hosts by service
+
+Host build
+	HostName mort.openredstone.org
+
+Host school
+	HostName nick.openredstone.org
+
+Host survival
+	HostName nick.openredstone.org
+
+Host web
+	HostName tyler.openredstone.org
+
+Host ts
+	HostName tyler.openredstone.org
+
+Host irc
+	HostName nonemu.openredstone.org
+
+# Hosts by owner
+
+Host mort
+	HostName mort.openredstone.org
+
+Host nick
+	HostName nick.openredstone.org
+
+Host tyler
+	HostName tyler.openredstone.org
+
+Host nonemu
+	HostName nonemu.openredstone.org
