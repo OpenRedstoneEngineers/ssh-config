@@ -1,33 +1,16 @@
-# Hosts by service
+# ORE Servers
 
-Host build
-	HostName mort.openredstone.org
+Host gallifrey
+	HostName gallifrey.openredstone.org
 
-Host school
-	HostName nick.openredstone.org
+Host nickstar
+  HostName nickstar.openredstone.org
 
-Host survival
-	HostName nick.openredstone.org
+Host tenrec
+	HostName tenrec.openredstone.org
 
-Host web
-	HostName tyler.openredstone.org
+Host lucifugus
+	HostName lucifugus.openredstone.org
 
-Host ts
-	HostName tyler.openredstone.org
-
-Host irc
-	HostName nonemu.openredstone.org
-
-# Hosts by owner
-
-Host mort
-	HostName mort.openredstone.org
-
-Host nick
-	HostName nick.openredstone.org
-
-Host tyler
-	HostName tyler.openredstone.org
-
-Host nonemu
-	HostName nonemu.openredstone.org
+Host shinobi
+  HostName shinobi.openredstone.org
