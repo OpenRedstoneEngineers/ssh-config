@@ -1,5 +1,3 @@
 # User-specific keys/configs
-id_rsa
-id_rsa.pub
-known_hosts
-known_hosts.old
+id*
+known_hosts*
