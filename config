@@ -4,13 +4,10 @@ Host gallifrey
 	HostName gallifrey.openredstone.org
 
 Host nickstar
-  HostName nickstar.openredstone.org
+	HostName nickstar.openredstone.org
 
 Host tenrec
 	HostName tenrec.openredstone.org
 
-Host lucifugus
-	HostName lucifugus.openredstone.org
-
 Host shinobi
-  HostName shinobi.openredstone.org
+	HostName shinobi.openredstone.org
