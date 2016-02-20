@@ -2,12 +2,16 @@
 
 Host gallifrey
 	HostName gallifrey.openredstone.org
+	User mcadmin
 
 Host nickstar
 	HostName nickstar.openredstone.org
+	User mcadmin
 
 Host tenrec
 	HostName tenrec.openredstone.org
+	User mcadmin
 
 Host shinobi
 	HostName shinobi.openredstone.org
+	User oreadmin
