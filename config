@@ -8,8 +8,8 @@ Host nickstar
 	HostName nickstar.openredstone.org
 	User mcadmin
 
-Host tenrec
-	HostName tenrec.openredstone.org
+Host aidos
+	HostName aidos.openredstone.org
 	User mcadmin
 
 Host shinobi
