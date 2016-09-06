@@ -14,9 +14,9 @@ Host aidos
 
 Host shinobi
 	HostName shinobi.openredstone.org
-	User oreadmin
+	User mcadmin
 
 Host hal
 	HostName shinobi.openredstone.org
 	Port 2222
-	User oreadmin
+	User mcadmin
