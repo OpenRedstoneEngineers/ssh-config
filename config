@@ -20,3 +20,8 @@ Host hal
 	HostName shinobi.openredstone.org
 	Port 2222
 	User mcadmin
+
+Host curta
+	HostName curta.openredstone.org
+	Port 42022
+	User mcadmin
