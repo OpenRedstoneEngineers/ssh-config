@@ -12,12 +12,12 @@ Host aidos
 	HostName aidos.openredstone.org
 	User mcadmin
 
-Host shinobi
-	HostName shinobi.openredstone.org
+Host hitsuke
+	HostName hitsuke.openredstone.org
 	User mcadmin
 
-Host hal
-	HostName shinobi.openredstone.org
+Host tars
+	HostName hitsuke.openredstone.org
 	Port 2222
 	User mcadmin
 
