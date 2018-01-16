@@ -7,6 +7,11 @@ Host gallifrey
 Host nickstar
 	HostName nickstar.openredstone.org
 	User mcadmin
+	
+Host lemur
+	HostName nickstar.openredstone.org
+	Port 2222
+	User mcadmin
 
 Host aidos
 	HostName aidos.openredstone.org
