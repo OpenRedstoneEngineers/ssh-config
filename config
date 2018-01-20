@@ -1,16 +1,6 @@
 # ORE Servers
-
-Host gallifrey
-	HostName gallifrey.openredstone.org
-	User mcadmin
-
-Host nickstar
-	HostName nickstar.openredstone.org
-	User mcadmin
-	
 Host lemur
-	HostName nickstar.openredstone.org
-	Port 2222
+	HostName lemur.openredstone.org
 	User mcadmin
 
 Host aidos
