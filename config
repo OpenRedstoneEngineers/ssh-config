@@ -7,14 +7,9 @@ Host aidos
 	HostName aidos.openredstone.org
 	User mcadmin
 
-Host hitsuke
-	HostName hitsuke.openredstone.org
-	User mcadmin
-
-Host tars
-	HostName hitsuke.openredstone.org
-	Port 2222
-	User mcadmin
+Host dojo
+    HostName dojo.openredstone.org
+    User mcadmin
 
 Host curta
 	HostName curta.openredstone.org
