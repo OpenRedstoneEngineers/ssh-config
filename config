@@ -15,3 +15,8 @@ Host curta
 	HostName curta.openredstone.org
 	Port 42022
 	User mcadmin
+
+Host surta
+	HostName lemur.openredstone.org
+	Port 42022
+	User mcadmin
