@@ -6,10 +6,15 @@ Host lemur
 Host aidos
 	HostName aidos.openredstone.org
 	User mcadmin
+	
+Host cerus
+	HostName lemur.openredstone.org
+	Port 42069
+	User mcadmin
 
 Host dojo
-    HostName dojo.openredstone.org
-    User mcadmin
+	HostName dojo.openredstone.org
+	User mcadmin
 
 Host curta
 	HostName curta.openredstone.org
