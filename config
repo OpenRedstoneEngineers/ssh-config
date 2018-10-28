@@ -25,3 +25,7 @@ Host surta
 	HostName lemur.openredstone.org
 	Port 42022
 	User mcadmin
+
+Host tyche
+	HostName tyche.openredstone.org
+	User mcadmin
