@@ -29,3 +29,7 @@ Host surta
 Host tyche
 	HostName tyche.openredstone.org
 	User mcadmin
+
+Host martha
+	HostName martha.openredstone.org
+	User mcadmin
