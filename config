@@ -1,35 +1,18 @@
 # ORE Servers
-Host lemur
-	HostName lemur.openredstone.org
+
+Host attis
+	HostName attis.openredstone.org
 	User mcadmin
 
 Host aidos
 	HostName aidos.openredstone.org
 	User mcadmin
-	
-Host cerus
-	HostName lemur.openredstone.org
-	Port 42069
-	User mcadmin
-
-Host dojo
-	HostName dojo.openredstone.org
-	User mcadmin
-
-Host curta
-	HostName curta.openredstone.org
-	Port 42022
-	User mcadmin
-
-Host surta
-	HostName lemur.openredstone.org
-	Port 42022
-	User mcadmin
 
 Host tyche
 	HostName tyche.openredstone.org
 	User mcadmin
-
-Host martha
-	HostName martha.openredstone.org
-	User mcadmin
+	
+Host modded
+	HostName md.openredstone.org
+	User minecraft
+	Port 8081
