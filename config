@@ -12,7 +12,7 @@ Host tyche
 	HostName tyche.openredstone.org
 	User mcadmin
 	
-Host modded
+Host donkey
 	HostName md.openredstone.org
 	User minecraft
 	Port 8081
